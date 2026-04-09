@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicodimus Munyuki
 - 👀 I’m interested in Data Data Science/Analytics
 - 🌱 Passionate about using data to solve real-world problems
-- 💞️ open for data science/analytics roles
+- 💞️ Open for data science/analytics roles
 - 📫 How to reach me nicodimusmunyuki2@gmail.com
